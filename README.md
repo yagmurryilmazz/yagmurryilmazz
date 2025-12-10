@@ -2,8 +2,8 @@
 <h3 align="center">Software Developer | Data Enthusiast</h3>
 
 <p align="center">
-Computer Science student focused on modern software development, 
-clean architecture principles, and continuous learning.  
+Computer Science student focused on modern software development,
+clean architecture principles, and continuous learning.<br/>
 I enjoy working on scalable applications and strengthening my skills in backend technologies.
 </p>
 
@@ -30,48 +30,46 @@ I enjoy working on scalable applications and strengthening my skills in backend 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io-badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
 <h4 align="center">⍟ IT & Infrastructure</h4>
 <p align="center">
-  <img src="https://img.shields.io-badge/Microsoft SQL Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Neon Database-0099FF?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Neon%20Database-0099FF?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
 
 <hr>
 
 <h3 align="center">🎓 Education</h3>
 <p align="center">
-<b>Bachelor – Information Systems & Technologies</b> <br>
-Mehmet Akif Ersoy University | <i>2023 – Present</i>
+  <b>Bachelor – Information Systems & Technologies</b><br/>
+  Mehmet Akif Ersoy University | <i>2023 – Present</i>
 </p>
 
 <hr>
 
 <h3 align="center">🌍 Languages</h3>
 <p align="center">
-English – A2 (Improving) • Turkish – Native
+  English – A2 (Improving) • Turkish – Native
 </p>
 
 <hr>
 
 <h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=yagmurryilmazz&show_icons=true&theme=radical"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yagmurryilmazz&layout=compact&theme=radical"/>
+  <img height="150"
+       src="https://github-readme-stats.vercel.app/api?username=yagmurryilmazz&show_icons=true&theme=radical&hide_border=true"
+       alt="GitHub Stats"/>
+  <img height="150"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=yagmurryilmazz&layout=compact&theme=radical&hide_border=true"
+       alt="Top Languages"/>
 </p>
-
----
 
 <hr>
 
-<p align="center">
-  <img width="600" src="https://i.ibb.co/602Wrp3/always-learning-banner.png" alt="Always learning & growing!">
-</p>
-
+<p align="center">🚀 Always learning & growing!</p>

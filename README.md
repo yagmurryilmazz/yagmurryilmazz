@@ -84,4 +84,18 @@ I enjoy working on scalable applications and strengthening my skills in backend 
 
 <hr>
 
-<p align="center">🚀 Always learning & growing!</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/🔧%20Bill%20Gates-000000?style=for-the-badge&labelColor=000000&color=0078D4"/>
+</p>
+
+<blockquote>
+  <p align="center" style="font-size:18px;">
+    <i>“It’s fine to celebrate success, but it is more important to heed the lessons of failure.”</i>
+  </p>
+  <p align="right">
+    — <b>Bill Gates</b>
+  </p>
+</blockquote>
+
+<br>
+

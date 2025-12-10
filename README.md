@@ -69,8 +69,6 @@ I enjoy working on scalable applications and strengthening my skills in backend 
   Anadolu University | <i>2025 – Present</i>
 </p>
 
-<hr>
-
 
 
 <hr>
@@ -78,36 +76,37 @@ I enjoy working on scalable applications and strengthening my skills in backend 
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
-  <img
-    height="150"
-    src="https://gh-stats-api.onrender.com/stats?username=yagmurryilmazz&theme=radical"
+  <img 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yagmurryilmazz&show_icons=true&theme=radical"
     alt="GitHub Stats"
-  />
-  <img
     height="150"
-    src="https://gh-stats-api.onrender.com/top-langs?username=yagmurryilmazz&layout=compact&theme=radical"
+/>
+  <img 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yagmurryilmazz&layout=compact&theme=radical"
     alt="Top Languages"
-  />
+    height="150"
+/>
 </p>
 
-
-
 <hr>
-<br>
 
 <h3 align="center">🧠 Guiding Principle</h3>
 
-<div align="center" style="background-color:#000000; padding:25px; border-radius:12px; width:80%;">
-
-<p align="center" style="font-size:18px; color:#00FFFF; font-style:italic; margin:0;">
-“It's fine to celebrate success, but it is more important to heed the lessons of failure.”
+<p align="center">
+  <span style="
+    display:inline-block;
+    max-width:800px;
+    background-color:#0d1117;
+    color:#f0f6fc;
+    padding:18px 24px;
+    border-radius:10px;
+    font-style:italic;
+    line-height:1.6;
+  ">
+    “It's fine to celebrate success, but it is more important to heed the lessons of failure.”
+    <br>
+    <span style="display:block; text-align:right; margin-top:8px; font-style:normal;">
+      — Bill Gates
+    </span>
+  </span>
 </p>
-
-<p align="right" style="font-size:16px; color:#FF5F5F; margin-top:12px; margin-bottom:0;">
-— Bill Gates
-</p>
-
-</div>
-
-<br>
-

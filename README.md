@@ -80,25 +80,24 @@ I enjoy working on scalable applications and strengthening my skills in backend 
   <img height="150"
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=yagmurryilmazz&layout=compact&theme=radical&hide_border=true"
        alt="Top Languages"/>
-</p>
-
-<h3 align="center">💬 Inspirational Quote</h3>
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Bill%20Gates-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.icons8.com/?size=100&id=102350&format=png&color=FFFFFF" width="35"/>
 </p>
 
 <div align="center">
-  <table>
-    <tr>
-      <td width="800" align="center" style="background-color:#0d0d18; border-radius:10px; padding:20px; border: 1px solid #2e2e40;">
-        <p align="center" style="font-size:18px; color:#00e6ea; font-style:italic;">
-          “It’s fine to celebrate success, but it is more important to heed the lessons of failure.”
-        </p>
-        <p align="right" style="font-size:16px; color:#ff4d4d;">
-          — Bill Gates
-        </p>
-      </td>
-    </tr>
-  </table>
+
+<table>
+<tr><td style="background-color:#0A0A0F; border-radius:10px; padding:20px; border: 2px solid #0A0A0F;">
+
+<p align="center" style="font-size:18px; color:#00E6E6; font-style:italic;">
+“It's fine to celebrate success, but it is more important to heed the lessons of failure.”
+</p>
+
+<p align="right" style="font-size:16px; color:#ff4d4d;">
+— Bill Gates
+</p>
+
+</td></tr>
+</table>
+
 </div>

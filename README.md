@@ -24,26 +24,34 @@ I enjoy working on scalable applications and strengthening my skills in backend 
 
 <hr>
 
-<h3 align="center">💻 Tech Stack</h3>
-
-<h4 align="center">⍟ Core Development</h4>
+<h3 align="center">💻 Core Skills & Languages</h3>
 <p align="center">
+
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/English-A2%20Improving-1e90ff?style=for-the-badge&logo=readthedocs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Turkish-Native-red?style=for-the-badge&logo=google-translate&logoColor=white"/>
+
+  <br><br>
+
+  <!-- Core Development -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
 
-<h4 align="center">⍟ IT & Infrastructure</h4>
-<p align="center">
+  <br><br>
+
+  <!-- Databases & Tools -->
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Neon%20Database-0099FF?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Neon%20DB-0099FF?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
 </p>
 
 <hr>
+
 
 <h3 align="center">🎓 Education</h3>
 <p align="center">

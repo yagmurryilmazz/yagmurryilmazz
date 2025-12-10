@@ -74,10 +74,9 @@ I enjoy working on scalable applications and strengthening my skills in backend 
 
 <h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
-  <a href="https://github.com/yagmurryilmazz">
-    <img src="https://img.shields.io/badge/GitHub-@yagmurryilmazz-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
-  </a>
+  <img src="https://i.imgur.com/Zq4pCwW.png" alt="GitHub Stats Placeholder" width="500"/>
 </p>
+
 
 
 <hr>

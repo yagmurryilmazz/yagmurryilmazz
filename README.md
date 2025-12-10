@@ -71,10 +71,10 @@ I enjoy working on scalable applications and strengthening my skills in backend 
 
 
 <hr>
-
 <h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
-  <img src="https://i.imgur.com/Zq4pCwW.png" alt="GitHub Stats Placeholder" width="500"/>
+  <img src="https://github-readme-stats-git-masterorg.vercel.app/api?username=yagmurryilmazz&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats-git-masterorg.vercel.app/api/top-langs?username=yagmurryilmazz&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 

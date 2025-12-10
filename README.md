@@ -80,9 +80,7 @@ I enjoy working on scalable applications and strengthening my skills in backend 
   <img height="150"
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=yagmurryilmazz&layout=compact&theme=radical&hide_border=true"
        alt="Top Languages"/>
-<p align="center">
-  <img src="https://img.icons8.com/?size=100&id=102350&format=png&color=FFFFFF" width="35"/>
-</p>
+
 
 
 <br>

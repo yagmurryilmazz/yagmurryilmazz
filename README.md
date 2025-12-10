@@ -82,20 +82,23 @@ I enjoy working on scalable applications and strengthening my skills in backend 
        alt="Top Languages"/>
 </p>
 
-<hr>
+<h3 align="center">💬 Inspirational Quote</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🔧%20Bill%20Gates-000000?style=for-the-badge&labelColor=000000&color=0078D4"/>
+  <img src="https://img.shields.io/badge/Bill%20Gates-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
 </p>
 
-<blockquote>
-  <p align="center" style="font-size:18px;">
-    <i>“It’s fine to celebrate success, but it is more important to heed the lessons of failure.”</i>
-  </p>
-  <p align="right">
-    — <b>Bill Gates</b>
-  </p>
-</blockquote>
-
-<br>
-
+<div align="center">
+  <table>
+    <tr>
+      <td width="800" align="center" style="background-color:#0d0d18; border-radius:10px; padding:20px; border: 1px solid #2e2e40;">
+        <p align="center" style="font-size:18px; color:#00e6ea; font-style:italic;">
+          “It’s fine to celebrate success, but it is more important to heed the lessons of failure.”
+        </p>
+        <p align="right" style="font-size:16px; color:#ff4d4d;">
+          — Bill Gates
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>

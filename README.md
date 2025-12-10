@@ -25,13 +25,16 @@ I enjoy working on scalable applications and strengthening my skills in backend 
 <hr>
 
 <h3 align="center">💻 Core Skills & Languages</h3>
+
 <p align="center">
 
   <!-- Languages -->
-  <img src="https://img.shields.io/badge/English-A2%20Improving-1e90ff?style=for-the-badge&logo=readthedocs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/English-A2%20(Improving)-1e90ff?style=for-the-badge&logo=readthedocs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Turkish-Native-red?style=for-the-badge&logo=google-translate&logoColor=white"/>
 
-  <br><br>
+</p>
+
+<p align="center">
 
   <!-- Core Development -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -40,7 +43,9 @@ I enjoy working on scalable applications and strengthening my skills in backend 
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
-  <br><br>
+</p>
+
+<p align="center">
 
   <!-- Databases & Tools -->
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>

@@ -51,14 +51,13 @@ I enjoy working on scalable applications and strengthening my skills in backend 
   Mehmet Akif Ersoy University | <i>2023 – Present</i>
 </p>
 
-<hr>
-
-<h3 align="center">🌍 Languages</h3>
 <p align="center">
-  English – A2 (Improving) • Turkish – Native
+  <b>Bachelor – Management Information Systems (Distance Education)</b><br/>
+  Anadolu University | <i>2025 – Present</i>
 </p>
 
 <hr>
+
 
 <h3 align="center">📊 GitHub Stats</h3>
 <p align="center">

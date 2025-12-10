@@ -84,20 +84,22 @@ I enjoy working on scalable applications and strengthening my skills in backend 
   <img src="https://img.icons8.com/?size=100&id=102350&format=png&color=FFFFFF" width="35"/>
 </p>
 
-<div align="center">
 
-<table>
-<tr><td style="background-color:#0A0A0F; border-radius:10px; padding:20px; border: 2px solid #0A0A0F;">
+<br>
 
-<p align="center" style="font-size:18px; color:#00E6E6; font-style:italic;">
+<h3 align="center">🧠 Guiding Principle</h3>
+
+<div align="center" style="background-color:#000000; padding:25px; border-radius:12px; width:80%;">
+
+<p align="center" style="font-size:18px; color:#00FFFF; font-style:italic; margin:0;">
 “It's fine to celebrate success, but it is more important to heed the lessons of failure.”
 </p>
 
-<p align="right" style="font-size:16px; color:#ff4d4d;">
+<p align="right" style="font-size:16px; color:#FF5F5F; margin-top:12px; margin-bottom:0;">
 — Bill Gates
 </p>
 
-</td></tr>
-</table>
-
 </div>
+
+<br>
+

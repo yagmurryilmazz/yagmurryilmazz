@@ -72,26 +72,27 @@ I enjoy working on scalable applications and strengthening my skills in backend 
 <hr>
 
 
+
 <hr>
 
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
-  <img 
+  <img
     height="150"
-    src="https://github-readme-stats.vercel.app/api?username=yagmurryilmazz&show_icons=true&theme=radical"
+    src="https://gh-stats-api.onrender.com/stats?username=yagmurryilmazz&theme=radical"
     alt="GitHub Stats"
   />
   <img
     height="150"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=yagmurryilmazz&layout=compact&theme=radical"
+    src="https://gh-stats-api.onrender.com/top-langs?username=yagmurryilmazz&layout=compact&theme=radical"
     alt="Top Languages"
   />
 </p>
 
 
 
-
+<hr>
 <br>
 
 <h3 align="center">🧠 Guiding Principle</h3>

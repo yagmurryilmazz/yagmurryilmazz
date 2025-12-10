@@ -23,6 +23,8 @@ I enjoy working on scalable applications and strengthening my skills in backend 
 </p>
 
 <hr>
+<h3 align="center">💻 Core Skills & Languages</h3>
+
 <p align="center">
 
   <!-- Languages -->

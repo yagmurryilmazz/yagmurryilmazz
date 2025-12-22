@@ -76,12 +76,6 @@ I enjoy working on scalable applications and strengthening my skills in backend 
 <h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
 
-<h2 align="center">📊 GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yagmurryilmazz&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</p>
-
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=yagmurryilmazz&theme=blue_navy&hide_border=false" alt="GitHub Streak" />
 </p>

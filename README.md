@@ -75,9 +75,13 @@ I enjoy working on scalable applications and strengthening my skills in backend 
 <hr>
 <h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
-![](https://github-readme-stats.vercel.app/api?username=yagmurryilmazz&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=yagmurryilmazz&theme=blue_navy&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yagmurryilmazz&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yagmurryilmazz&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true)
+
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=yagmurryilmazz&theme=blue_navy&hide_border=false)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yagmurryilmazz&theme=blue_navy&hide_border=false&layout=compact)
+
 
 </p>
 
